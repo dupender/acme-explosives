@@ -1,0 +1,112 @@
+{
+    "products": [
+        {
+            "id": 0,
+            "type": 0,
+            "name": "Fairy Sparklers",
+            "description": "Multi-colored sparklers that are safe for any age."
+        },
+        {
+            "id": 1,
+            "type": 0,
+            "name": "Butterflies",
+            "description": "Multi-colored butterflies that are safe for any age."
+        },
+        {
+            "id": 2,
+            "type": 0,
+            "name": "Unicorns",
+            "description": "Multi-colored unicorns that are safe for any age."
+        },
+        {
+            "id": 3,
+            "type": 1,
+            "name": "Candy Corn",
+            "description": "Multi-colored candy corn that are safe for any age."
+        },
+        {
+            "id": 4,
+            "type": 1,
+            "name": "Lady bugs",
+            "description": "Multi-colored lady bugs that are safe for any age."
+        },
+        {
+            "id": 5,
+            "type": 1,
+            "name": "Beetles",
+            "description": "Multi-colored beetles that are safe for any age."
+        },
+        {
+            "id": 6,
+            "type": 2,
+            "name": "Roses",
+            "description": "Multi-colored roses that are safe for any age."
+        },
+        {
+            "id": 7,
+            "type": 2,
+            "name": "Tulips",
+            "description": "Multi-colored tulips that are safe for any age."
+        },
+        {
+            "id": 8,
+            "type": 2,
+            "name": "Carnations",
+            "description": "Multi-colored carnations that are safe for any age."
+        },
+        {
+            "id": 9,
+            "type": 3,
+            "name": "Frogs",
+            "description": "Multi-colored frogs that are safe for any age."
+        },
+        {
+            "id": 10,
+            "type": 3,
+            "name": "Pink Fairies",
+            "description": "Multi-colored pink faries that are safe for any age."
+        },
+        {
+            "id": 11,
+            "type": 3,
+            "name": "Twizzlers",
+            "description": "Multi-colored twizzlers that are safe for any age."
+        },
+        {
+            "id": 12,
+            "type": 4,
+            "name": "Peanuts",
+            "description": "Multi-colored peanuts that are safe for any age."
+        },
+        {
+            "id": 13,
+            "type": 4,
+            "name": "Butter Cups",
+            "description": "Multi-colored butter cups that are safe for any age."
+        },
+        {
+            "id": 14,
+            "type": 4,
+            "name": "Mushrooms",
+            "description": "Multi-colored mushrooms that are safe for any age."
+        },
+        {
+            "id": 15,
+            "type": 5,
+            "name": "Bumble bees",
+            "description": "Multi-colored bumble bees that are safe for any age."
+        },
+        {
+            "id": 16,
+            "type": 5,
+            "name": "Spoons",
+            "description": "Multi-colored spoons that are safe for any age."
+        },
+        {
+            "id": 17,
+            "type": 5,
+            "name": "Forks",
+            "description": "Multi-colored forks that are safe for any age."
+        }
+    ]
+}
